@@ -1,2 +1,2 @@
 # talks
-My talks in different contexts.
+My talks (various contexts, in German or English).
